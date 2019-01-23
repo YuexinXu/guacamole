@@ -1,7 +1,11 @@
 ingredients:
 avocados
-garlic
-small onion
+
+salt
 lime
+onion
 cilantro
+Some other stuff
+
+garlic
 
